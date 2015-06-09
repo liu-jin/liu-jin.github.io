@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[Matt's Blog]]></title>
+  <subtitle><![CDATA[Learn and live.]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://liu-jin.github.io//"/>
+  <updated>2015-06-09T13:07:05.000Z</updated>
+  <id>http://liu-jin.github.io//</id>
+  
+  <author>
+    <name><![CDATA[Liu Jin]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[旅行测试]]></title>
+    <link href="http://liu-jin.github.io/2015/06/09/%E6%97%85%E8%A1%8C%E6%B5%8B%E8%AF%95/"/>
+    <id>http://liu-jin.github.io/2015/06/09/旅行测试/</id>
+    <published>2015-06-09T07:38:01.000Z</published>
+    <updated>2015-06-09T13:07:05.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="这是另一个测试文章">这是另一个测试文章</h2><p>哈哈</p>
+<p><img src="/images/logo-header.png" style="width: 300px;"></p>
+<h3 id="debug">debug</h3><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
+<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
+</blockquote>
+<blockquote><p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io" target="_blank" rel="external">http://devdocs.io</a></p>
+<footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752" target="_blank" rel="external">twitter.com/devdocs/status/356095192085962752</a></cite></footer></blockquote>
+<blockquote><p>Every interaction is both precious and an opportunity to delight.</p>
+<footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote>
+<figure class="highlight lisp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert<span class="list">(<span class="quoted">'Hello</span> World!')</span><span class="comment">;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight objc"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</span><br></pre></td></tr></table></figure>
+<figure class="highlight ruby"><figcaption><span>_.compact</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">Underscore.js</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="number">_</span>.compact([<span class="number">0</span>, <span class="number">1</span>, <span class="keyword">false</span>, <span class="number">2</span>, <span class="string">''</span>, <span class="number">3</span>]);</span><br><span class="line"><span class="status">=&gt;</span> [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>]</span><br></pre></td></tr></table></figure>
+<iframe src="http://www.baidu.com" width="100%" height="300" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe src="//www.youtube.com/embed/zEh4je5Set0" frameborder="0" allowfullscreen></iframe></div>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="这是另一个测试文章">这是另一个测试文章</h2><p>哈哈</p>
+<p><img src="/images/logo-header.png" style="width: 300px;"></p>
+<h3 id="debug">debug</h3><blockq]]>
+    </summary>
+    
+      <category term="澳大利亚" scheme="http://liu-jin.github.io/tags/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/"/>
+    
+      <category term="旅行" scheme="http://liu-jin.github.io/categories/%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[技术测试]]></title>
+    <link href="http://liu-jin.github.io/2015/06/09/cate-test/"/>
+    <id>http://liu-jin.github.io/2015/06/09/cate-test/</id>
+    <published>2015-06-09T07:25:01.000Z</published>
+    <updated>2015-06-09T07:39:52.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="这是一篇测试文章">这是一篇测试文章</h2><p>this is just for test</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">'hello world'</span></span><br></pre></td></tr></table></figure>
+<h3 id="三级标题测试">三级标题测试</h3>]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="这是一篇测试文章">这是一篇测试文章</h2><p>this is just for test</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="l]]>
+    </summary>
+    
+      <category term="Football" scheme="http://liu-jin.github.io/tags/Football/"/>
+    
+      <category term="技术" scheme="http://liu-jin.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[jiao jie]]></title>
+    <link href="http://liu-jin.github.io/2015/06/09/jiao-jie/"/>
+    <id>http://liu-jin.github.io/2015/06/09/jiao-jie/</id>
+    <published>2015-06-09T02:24:15.000Z</published>
+    <updated>2015-06-09T02:24:15.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[the forth one]]></title>
+    <link href="http://liu-jin.github.io/2015/06/09/the-forth-one/"/>
+    <id>http://liu-jin.github.io/2015/06/09/the-forth-one/</id>
+    <published>2015-06-09T02:19:22.000Z</published>
+    <updated>2015-06-09T02:19:22.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[the second article]]></title>
+    <link href="http://liu-jin.github.io/2015/06/08/the-second-article/"/>
+    <id>http://liu-jin.github.io/2015/06/08/the-second-article/</id>
+    <published>2015-06-08T15:59:54.000Z</published>
+    <updated>2015-06-08T15:59:54.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[My New Post]]></title>
+    <link href="http://liu-jin.github.io/2015/06/08/My-New-Post/"/>
+    <id>http://liu-jin.github.io/2015/06/08/My-New-Post/</id>
+    <published>2015-06-08T15:39:02.000Z</published>
+    <updated>2015-06-08T15:39:02.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://liu-jin.github.io/2015/06/08/hello-world/"/>
+    <id>http://liu-jin.github.io/2015/06/08/hello-world/</id>
+    <published>2015-06-08T15:27:39.000Z</published>
+    <updated>2015-06-08T15:27:39.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
