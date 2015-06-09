@@ -143,6 +143,24 @@ body {
   color: rgba(0,0,0,0.6);
   -webkit-overflow-scrolling: touch;
 }
+.container {
+  position: relative;
+  padding: 0 container-padding;
+}
+.container-inner {
+  max-width: container-inner-max-width;
+  min-width: container-inner-min-width;
+  width: 100%;
+  margin: 0 auto;
+}
+.container-inner:before,
+.container-inner:after {
+  content: "";
+  display: table;
+}
+.container-inner:after {
+  clear: both;
+}
 h1,
 h2,
 h3 {
