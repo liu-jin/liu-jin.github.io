@@ -196,7 +196,21 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <h2 id="这是另一个测试文章">这是另一个测试文章</h2><p>哈哈</p>
+<div class="video-container"><iframe src="//www.youtube.com/embed/zEh4je5Set0" frameborder="0" allowfullscreen></iframe></div>
+<h3 id="debug">debug</h3><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
+<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
+</blockquote>
+<blockquote><p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io" target="_blank" rel="external">http://devdocs.io</a></p>
+<footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752" target="_blank" rel="external">twitter.com/devdocs/status/356095192085962752</a></cite></footer></blockquote>
+<blockquote><p>Every interaction is both precious and an opportunity to delight.</p>
+<footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote>
+<figure class="highlight lisp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert<span class="list">(<span class="quoted">'Hello</span> World!')</span><span class="comment">;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight objc"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</span><br></pre></td></tr></table></figure>
+<figure class="highlight ruby"><figcaption><span>_.compact</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">Underscore.js</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="number">_</span>.compact([<span class="number">0</span>, <span class="number">1</span>, <span class="keyword">false</span>, <span class="number">2</span>, <span class="string">''</span>, <span class="number">3</span>]);</span><br><span class="line"><span class="status">=&gt;</span> [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>]</span><br></pre></td></tr></table></figure>
+<iframe src="http://www.baidu.com" width="100%" height="300" frameborder="0" allowfullscreen></iframe>
+
       
     </div>
     
@@ -253,7 +267,9 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <h2 id="这是一篇测试文章">这是一篇测试文章</h2><p>this is just for test</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">'hello world'</span></span><br></pre></td></tr></table></figure>
+<h3 id="三级标题测试">三级标题测试</h3>
       
     </div>
     
@@ -310,7 +326,39 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <h1 id="ODPS应用管理文档">ODPS应用管理文档</h1><h2 id="1-_应用">1. 应用</h2><ul>
+<li>abif：商家数据</li>
+<li>tbpec：效果中心</li>
+<li>tpda：商品指南针</li>
+</ul>
+<h2 id="2-_后台权限">2. 后台权限</h2><p>在在云端里添加成员后只在该应用的dev环境里添加了该成员，生产pro还没有读表的权限，需要在后台通过命令方式添加角色。</p>
+<h3 id="2-1_abif权限管理角色划分">2.1 abif权限管理角色划分</h3><p>角色是通过policy方式创建的，abif拥有角色如下：</p>
+<ul>
+<li>owner：只有一个，现在是依韵</li>
+<li>admin：依韵、腾景、南迦</li>
+<li>prd_default：默认生产角色，有限list，desc权限，不能select</li>
+<li>team：团队成员添加该角色，可以读写表</li>
+<li>read：外部成员添加，只能读表</li>
+</ul>
+<h3 id="2-2_package资源共享">2.2 package资源共享</h3><p>有些外部pro的表是通过package的方式供abif访问的，需要拥有admin角色的人员在后台命令安装package，并授权给相关角色，才能访问package封装的资源（表、函数等）</p>
+<p><em>关于权限的详细文档<a href="http://odps.alibaba-inc.com/doc/prddoc/odps_security/index.html" target="_blank" rel="external">参考链接</a></em></p>
+<h2 id="3-_空间清理">3. 空间清理</h2><p>由于业务的增长，odps项目存储空间的使用有时会超过监控预警值，出现报警的情况，解决办法参考：<a href="http://odps.alibaba-inc.com/?p=626" target="_blank" rel="external">http://odps.alibaba-inc.com/?p=626</a></p>
+<h2 id="4-_常用链接">4. 常用链接</h2><p>云账号查询：</p>
+<ul>
+<li><a href="http://d2.alibaba-inc.com/aliyunquery.html" target="_blank" rel="external">http://d2.alibaba-inc.com/aliyunquery.html</a></li>
+</ul>
+<p>应用账单、健康分：</p>
+<ul>
+<li><p><a href="http://meta.alibaba-inc.com/manage/project/paybillnew/project_day.html?projName=abif&amp;ds=2015-06-01" target="_blank" rel="external">http://meta.alibaba-inc.com/manage/project/paybillnew/project_day.html?projName=abif&amp;ds=2015-06-01</a></p>
+</li>
+<li><p><a href="http://meta.alibaba-inc.com/manage/project/paybill/project_day.html?projName=abif&amp;ds=2015-06-01" target="_blank" rel="external">http://meta.alibaba-inc.com/manage/project/paybill/project_day.html?projName=abif&amp;ds=2015-06-01</a></p>
+</li>
+</ul>
+<p>qouta组资源占用情况：</p>
+<ul>
+<li><a href="http://meta.alibaba-inc.com/project/health/quota.html" target="_blank" rel="external">http://meta.alibaba-inc.com/project/health/quota.html</a></li>
+</ul>
+
       
     </div>
     
@@ -506,7 +554,16 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+
       
     </div>
     
