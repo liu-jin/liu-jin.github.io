@@ -5,7 +5,7 @@
   <subtitle><![CDATA[Learn and live.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://liu-jin.github.io//"/>
-  <updated>2015-06-10T02:08:39.000Z</updated>
+  <updated>2016-08-03T05:38:52.000Z</updated>
   <id>http://liu-jin.github.io//</id>
   
   <author>
@@ -16,10 +16,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[new-day]]></title>
+    <link href="http://liu-jin.github.io/2016/08/03/new-day/"/>
+    <id>http://liu-jin.github.io/2016/08/03/new-day/</id>
+    <published>2016-08-03T05:37:37.000Z</published>
+    <updated>2016-08-03T05:38:52.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="Reborn">Reborn</h1><h2 id="the_first_day">the first day</h2><p>1<br>2<br>3</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="Reborn">Reborn</h1><h2 id="the_first_day">the first day</h2><p>1<br>2<br>3</p>
+]]>
+    </summary>
+    
+      <category term="Football" scheme="http://liu-jin.github.io/tags/Football/"/>
+    
+      <category term="Sports" scheme="http://liu-jin.github.io/categories/Sports/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[旅行测试]]></title>
     <link href="http://liu-jin.github.io/2015/06/09/lvxing/"/>
     <id>http://liu-jin.github.io/2015/06/09/lvxing/</id>
-    <published>2015-06-09T07:38:01.000Z</published>
+    <published>2015-06-09T03:38:01.000Z</published>
     <updated>2015-06-10T02:08:39.000Z</updated>
     <content type="html"><![CDATA[<h2 id="这是另一个测试文章">这是另一个测试文章</h2><p>哈哈</p>
 <h3 id="debug">debug</h3><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
@@ -56,7 +75,7 @@
     <title><![CDATA[技术测试]]></title>
     <link href="http://liu-jin.github.io/2015/06/09/cate-test/"/>
     <id>http://liu-jin.github.io/2015/06/09/cate-test/</id>
-    <published>2015-06-09T07:25:01.000Z</published>
+    <published>2015-06-09T03:25:01.000Z</published>
     <updated>2015-06-09T07:39:52.000Z</updated>
     <content type="html"><![CDATA[<h2 id="这是一篇测试文章">这是一篇测试文章</h2><p>this is just for test</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">'hello world'</span></span><br></pre></td></tr></table></figure>
@@ -76,7 +95,7 @@
     <title><![CDATA[交接文档]]></title>
     <link href="http://liu-jin.github.io/2015/06/09/jiao-jie/"/>
     <id>http://liu-jin.github.io/2015/06/09/jiao-jie/</id>
-    <published>2015-06-09T02:24:15.000Z</published>
+    <published>2015-06-08T22:24:15.000Z</published>
     <updated>2015-06-10T02:05:36.000Z</updated>
     <content type="html"><![CDATA[<h1 id="ODPS应用管理文档">ODPS应用管理文档</h1><h2 id="1-_应用">1. 应用</h2><ul>
 <li>abif：商家数据</li>
@@ -138,7 +157,7 @@
     <title><![CDATA[the forth one]]></title>
     <link href="http://liu-jin.github.io/2015/06/09/the-forth-one/"/>
     <id>http://liu-jin.github.io/2015/06/09/the-forth-one/</id>
-    <published>2015-06-09T02:19:22.000Z</published>
+    <published>2015-06-08T22:19:22.000Z</published>
     <updated>2015-06-09T02:19:22.000Z</updated>
     <content type="html"></content>
     <summary type="html">
@@ -148,35 +167,9 @@
   </entry>
   
   <entry>
-    <title><![CDATA[the second article]]></title>
-    <link href="http://liu-jin.github.io/2015/06/08/the-second-article/"/>
-    <id>http://liu-jin.github.io/2015/06/08/the-second-article/</id>
-    <published>2015-06-08T15:59:54.000Z</published>
-    <updated>2015-06-08T15:59:54.000Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[My New Post]]></title>
-    <link href="http://liu-jin.github.io/2015/06/08/My-New-Post/"/>
-    <id>http://liu-jin.github.io/2015/06/08/My-New-Post/</id>
-    <published>2015-06-08T15:39:02.000Z</published>
-    <updated>2015-06-08T15:39:02.000Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://liu-jin.github.io/2015/06/08/hello-world/"/>
-    <id>http://liu-jin.github.io/2015/06/08/hello-world/</id>
+    <link href="http://liu-jin.github.io/2015/06/09/hello-world/"/>
+    <id>http://liu-jin.github.io/2015/06/09/hello-world/</id>
     <published>2015-06-08T15:27:39.000Z</published>
     <updated>2015-06-08T15:27:39.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
@@ -191,6 +184,32 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[the second article]]></title>
+    <link href="http://liu-jin.github.io/2015/06/08/the-second-article/"/>
+    <id>http://liu-jin.github.io/2015/06/08/the-second-article/</id>
+    <published>2015-06-08T11:59:54.000Z</published>
+    <updated>2015-06-08T15:59:54.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[My New Post]]></title>
+    <link href="http://liu-jin.github.io/2015/06/08/My-New-Post/"/>
+    <id>http://liu-jin.github.io/2015/06/08/My-New-Post/</id>
+    <published>2015-06-08T11:39:02.000Z</published>
+    <updated>2015-06-08T15:39:02.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
     </summary>
     
   </entry>
